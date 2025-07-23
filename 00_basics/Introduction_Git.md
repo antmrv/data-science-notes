@@ -4,12 +4,12 @@ Ce fichier contient une introduction à Git et ses différentes commandes pour u
 **Sommaire**
 - [Git workflow](#Git-workflow)
 - [Commandes](#Commandes)
-- [Initialisation](##Initialisation)
-- [Commandes basiques](##Commandes-basiques)
-- [Branches](##Branches)
-- [Merge des branches](##Merge-des-branches)
-- [Avec git merge](##avec-git-merge)
-- [Avec git rebase](##avec-git-rebase)
+- [Initialisation](#Initialisation)
+- [Commandes basiques](#Commandes-basiques)
+- [Branches](#Branches)
+- [Merge des branches](#Merge-des-branches)
+- [Avec git merge](#avec-git-merge)
+- [Avec git rebase](#avec-git-rebase)
 - [Git ignore](#Git-ignore-(.gitingore))
 
 **Ressources**

@@ -7,4 +7,3 @@ Ce fichier contient une introduction à Git et ses différentes commandes pour u
 - [https://cs.fyi/guide/git-cheatsheet]
 - [https://www.youtube.com/watch?v=vA5TTz6BXhY&ab_channel=TraversyMedia]
 – [https://www.youtube.com/@philomatics]
-

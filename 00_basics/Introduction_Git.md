@@ -10,7 +10,7 @@ Ce fichier contient une introduction à Git et ses différentes commandes pour u
 - [Merge des branches](#Merge-des-branches)
 - [Avec git merge](#avec-git-merge)
 - [Avec git rebase](#avec-git-rebase)
-- [Git ignore](#Git-ignore-(.gitingore))
+- [Git ignore](#Git-ignore)
 
 **Ressources**
 - [https://git-scm.com/]
@@ -135,7 +135,7 @@ git rebase --continue
 ````
 
 
-# Git ignore (.gitignore)
+# Git ignore
 Exemple de fichier 
 ````
 # ignore txt files

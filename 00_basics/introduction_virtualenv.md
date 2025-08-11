@@ -76,3 +76,11 @@ pip freeze > requirements.txt
 # Desactiver l'enviromment
 deactivate
 ````
+
+Pour supprimer un environnement 
+````
+# Desactiver l'environnement avant sa suppression
+deactivate
+
+rm -r <env_name>
+````

@@ -26,6 +26,9 @@ Création de l'environnement à partir du répertoire du projet
 cd path/project
 python3.12 -m venv env_name
 
+# Autre façon pour utiliser une version specifique 
+virtualenv -p python3.11 env_name
+
 # Avec une seule commande
 python3.12 -m venv /path/to/new/env/env_name
 
@@ -39,7 +42,7 @@ Activer l'environnement et installer les packages avec un requirements.txt
 env_name\Scripts\activate
 
 # Linux et macos
-source venv/bin/activate
+source env_name/bin/activate
 
 # Avec un fichier requirements.txt
 python3.12 -m pip install -r requirements.txt
